@@ -16,6 +16,19 @@
 
 [![Night Coding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
+### ⚙️ GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/DiptiChahar">
+    <img src="https://github-readme-stats.vercel.app/api?username=DiptiChahar&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Dipti's GitHub Stats" />
+  </a>
+  <a href="https://github.com/DiptiChahar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiptiChahar&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
 ### 🛠  Tech Stack
 
 #### Languages
@@ -58,5 +71,6 @@
 
 ---
 
-### 🔗 Connect with me
+### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dipti-Chahar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diptichahar15@gmail.com)
