@@ -6,7 +6,7 @@
 
 🎓  **B.Tech CSE** student passionate about **AI/ML** and **Full Stack Development**.
 
-🌱  Currently building **Pharma Assist** and **EcoTrack**.
+🌱  Currently building **Pharma Assist** Project.
 
 🏆  **Amazon ML Summer School '25** | **Google Girl Hackathon Semifinalist**.
 
