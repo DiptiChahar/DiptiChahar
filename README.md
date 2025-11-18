@@ -1,5 +1,3 @@
-[![Wave](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif)](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif)
-
 ## Hey there! I'm Dipti
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DiptiChahar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DiptiChahar)
