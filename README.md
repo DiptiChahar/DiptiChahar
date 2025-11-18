@@ -1,20 +1,20 @@
-## Hey there! I'm Dipti
+# Hi, I'm Dipti !!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DiptiChahar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DiptiChahar)
 
-🌟  I turn **data** into **intelligence**.
+🌟 I turn **data** into **intelligence**.
 
-🎓  **B.Tech CSE** student passionate about **AI/ML** and **Full Stack Development**.
+🎓 **B.Tech CSE** student passionate about **AI/ML** and **Web Development**.
 
-🌱  Currently building **Pharma Assist** Project.
+🌱 Currently building **Pharma Assist** Project.
 
-🏆  **Amazon ML Summer School '25** | **Google Girl Hackathon Semifinalist**.
+🏆 **Amazon ML Summer School '25** | **Google Girl Hackathon Semifinalist**.
 
-📩  Reach me at **[diptichahar15@gmail.com](mailto:diptichahar15@gmail.com)**
+📩 Reach me at **[diptichahar15@gmail.com](mailto:diptichahar15@gmail.com)**
 
 [![Night Coding](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif)
 
-### 🛠  Tech Stack
+### 🛠 Tech Stack
 
 #### Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
